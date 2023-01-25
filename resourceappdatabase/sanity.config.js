@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'resourceapp_database',
 
-  projectId: 'pyny8l7h',
+  projectId: 'bgtz7fz1',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],

@@ -2,9 +2,9 @@
 
 # dependencies
 /node_modules
-/resourceappdatabase/node_modules
 /.pnp
 .pnp.js
+
 # testing
 /coverage
 
